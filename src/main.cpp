@@ -247,6 +247,7 @@ int main (int argc, char** argv)
                 struct signalfd_siginfo siginfo;
                 if(::read (sig, &siginfo, sizeof (struct signalfd_siginfo)) != sizeof (struct signalfd_siginfo))
                 {
+                    close (sig);
                     _exit (EXIT_FAILURE);
                 }
 
@@ -258,6 +259,7 @@ int main (int argc, char** argv)
         }
     }
 
+    close (sig);
     endwin ();
 
     _exit (EXIT_SUCCESS);
