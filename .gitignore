@@ -1,0 +1,8 @@
+build*
+*version.h
+*.cproject
+*.project
+*.settings
+*.launch
+*.vscode
+*.cache
