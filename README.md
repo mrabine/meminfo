@@ -1,4 +1,8 @@
 # meminfo
+[![Build Status](https://github.com/mrabine/meminfo/workflows/build/badge.svg)](https://github.com/mrabine/meminfo/actions?query=workflow%3Abuild)
+[![GitHub Releases](https://img.shields.io/github/release/mrabine/meminfo.svg)](https://github.com/mrabine/meminfo/releases/latest)
+[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mrabine/meminfo/blob/main/LICENSE)
+
 Monitor process VmRSS usage
 
 ## Download
