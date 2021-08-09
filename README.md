@@ -1,5 +1,6 @@
 # meminfo
 [![Build Status](https://github.com/mrabine/meminfo/workflows/build/badge.svg)](https://github.com/mrabine/meminfo/actions?query=workflow%3Abuild)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/mrabine/meminfo.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/mrabine/meminfo/alerts/)
 [![Language grade: C/C++](https://img.shields.io/lgtm/grade/cpp/g/mrabine/meminfo.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/mrabine/meminfo/context:cpp)
 [![GitHub Releases](https://img.shields.io/github/release/mrabine/meminfo.svg)](https://github.com/mrabine/meminfo/releases/latest)
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mrabine/meminfo/blob/main/LICENSE)
