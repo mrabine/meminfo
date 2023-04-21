@@ -26,7 +26,6 @@ jobs:
         gh-code-scanning-compat: true
         max-allowed-issues: 2147483647
 
-
     - name: Upload codacy scan report to github
       uses: github/codeql-action/upload-sarif@v2
       with:
