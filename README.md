@@ -1,7 +1,7 @@
 # meminfo
 
 [![Security Status](https://github.com/mrabine/meminfo/workflows/security/badge.svg)](https://github.com/mrabine/meminfo/security/code-scanning)
-[![Codacy Grade](https://app.codacy.com/project/badge/Grade/aa8d30be1e104cdebdaf1861de8a8db1)](https://www.codacy.com/gh/mrabine/meminfo/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mrabine/meminfo&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/974e0cb906354e6e85ad57dd2915c3da)](https://app.codacy.com/gh/mrabine/meminfo/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![GitHub Releases](https://img.shields.io/github/release/mrabine/meminfo.svg)](https://github.com/mrabine/meminfo/releases/latest)
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mrabine/meminfo/blob/main/LICENSE)
 
